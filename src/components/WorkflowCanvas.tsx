@@ -98,7 +98,7 @@ export default function WorkflowCanvas(
 
 
 
-        onNodeClick={(event, clickedNode)=>{
+        onNodeClick={(_, clickedNode) => {
 
 
           const selected =
